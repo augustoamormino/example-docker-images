@@ -7,6 +7,3 @@ echo "O JOB será encerrado daqui 60 segundos"
 sleep 60
 
 echo "Finalizando a Job"
-
-exit 0
-
