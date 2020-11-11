@@ -12,3 +12,9 @@ echo "echo 'Nome: <SeuNome>'" >> script.sh
 ```bash
 echo "print('Nome: <SeuNome>')" >> example_python.py
 ```
+
+#Altere no example-app-web:
+
+```bash
+sed -i 's/##MeuNome##/Digite Seu Nome Aqui/g' index.html
+```
